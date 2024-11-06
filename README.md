@@ -39,6 +39,4 @@ Para reproducir el análisis y el modelo:
 2. Ejecuta el notebook paso a paso para entrenar y evaluar el modelo en el dataset de detección de fraude.
 
 ## Autoría
-Este proyecto fue realizado por [Patricia Luengo Carretero](https://www.linkedin.com/in/patricialuca/). Puedes ver más sobre mi trabajo en [sitio web personal](https://www.patricialuca.es).
-
-
+Este proyecto fue realizado por [Patricia Luengo Carretero](https://www.linkedin.com/in/patricialuca/) y también lo puedes encontrar en kaggle en [Proyecto Final -Programa de IA de IBM](https://www.kaggle.com/code/patrilc/proyecto-final-programa-de-ia-de-ibm) Puedes ver más sobre mi trabajo en mi [sitio web personal](https://www.patricialuca.es).
